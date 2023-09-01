@@ -16,6 +16,6 @@ CMSY has different parts & pieces, but it mainly uses the following stack
 - NG-ZORRO
 
 👉️ **DevOps**
-- Digital Ocean: Dataabse + Backend
-- Netlify: landing page and cms front end
+- Digital Ocean: Database + Backend
+- Netlify: landing page, cms front end & docs
 - CloudFlare: DNS management
