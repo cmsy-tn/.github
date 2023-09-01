@@ -1,12 +1,21 @@
-## Hi there 👋
+# CMSY 🇹🇳
+A suite of tools that help you create your own portfolio in minutes.  
+CMSY comes in 2 flavors, cloud and self-hosted version.
 
-<!--
+## Tech Stack
+CMSY has different parts & pieces, but it mainly uses the following stack  
 
-**Here are some ideas to get you started:**
+👉️ **Back End**
+- NestJs
+- MySL
+- Typeorm
+- SwaggerUI
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👉️ **Front End**
+- Angular
+- NG-ZORRO
+
+👉️ **DevOps**
+- Digital Ocean: Dataabse + Backend
+- Netlify: landing page and cms front end
+- CloudFlare: DNS management
