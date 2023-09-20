@@ -1,8 +1,14 @@
-# CMSY 🇹🇳
-[app.cmsy.tn](https://app.cmsy.tn) - [docs.cmsy.tn](https://docs.cmsy.tn) - [cmsy.tn](https://cmsy.tn)  
-A suite of tools to help you create your own portfolio in minutes.
+# CMSY 🇹🇳  
 
-## Tech Stack
+## ✨ Presentation
+A suite of tools to help you create your own portfolio in minutes.  
+| links |  Target
+|--|--  
+| [cmsy.tn](https://cmsy.tn) | Landing page
+| [docs.cmsy.tn](https://docs.cmsy.tn) | Documentation (dev oriented)
+| [cloud.cmsy.tn](https://cloud.cmsy.tn) | Cloud version of CMSY (paid)
+
+## ✨ Tech Stack
 CMSY has different parts & pieces, but it mainly uses the following stack  
 
 |Back End  | Front End | DevOps |	
